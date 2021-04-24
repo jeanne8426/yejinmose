@@ -44,3 +44,13 @@ $(".list5").click(function(){
 $(".layer5 > .close5").click(function(){
    $(".layer5").css("display","none");
 });
+
+
+/*6*/
+$(".list6").click(function(){
+   $(".layer6").css("display","block");
+});
+
+$(".layer6 > .close6").click(function(){
+   $(".layer6").css("display","none");
+});
