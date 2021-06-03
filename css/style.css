@@ -17,6 +17,6 @@ body {margin: 0 auto; height:auto; width:1200px;}
 #list .list2 {}
 
 /*layer*/
-.layer {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
-.layer .close {position:absolute; bottom:20px; right:20px;}
+.layer1 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer1 .close1 {position:absolute; bottom:20px; right:20px;}
 
