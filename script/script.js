@@ -54,3 +54,49 @@ $(".list6").click(function(){
 $(".layer6 > .close6").click(function(){
    $(".layer6").css("display","none");
 });
+
+
+/*7*/
+$(".list7").click(function(){
+   $(".layer7").css("display","block");
+});
+
+$(".layer7 > .close7").click(function(){
+   $(".layer7").css("display","none");
+});
+
+/*8*/
+$(".list8").click(function(){
+   $(".layer8").css("display","block");
+});
+
+$(".layer8 > .close8").click(function(){
+   $(".layer8").css("display","none");
+});
+
+/*9*/
+$(".list9").click(function(){
+   $(".layer9").css("display","block");
+});
+
+$(".layer9 > .close9").click(function(){
+   $(".layer9").css("display","none");
+});
+
+/*10*/
+$(".list10").click(function(){
+   $(".layer10").css("display","block");
+});
+
+$(".layer10 > .close10").click(function(){
+   $(".layer10").css("display","none");
+});
+
+/*11*/
+$(".list11").click(function(){
+   $(".layer11").css("display","block");
+});
+
+$(".layer11 > .close11").click(function(){
+   $(".layer11").css("display","none");
+});
