@@ -20,3 +20,35 @@ body {margin: 0 auto; height:auto; width:1200px;}
 .layer1 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
 .layer1 .close1 {position:absolute; bottom:20px; right:20px;}
 
+.layer2 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer2 .close2 {position:absolute; bottom:20px; right:20px;}
+
+.layer3 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer3 .close3 {position:absolute; bottom:20px; right:20px;}
+
+.layer4 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer4 .close4 {position:absolute; bottom:20px; right:20px;}
+
+.layer5 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer5 .close5 {position:absolute; bottom:20px; right:20px;}
+
+.layer6 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer6 .close6 {position:absolute; bottom:20px; right:20px;}
+
+.layer7 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer7 .close7 {position:absolute; bottom:20px; right:20px;}
+
+.layer8 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer8 .close8 {position:absolute; bottom:20px; right:20px;}
+
+.layer9 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer9 .close9 {position:absolute; bottom:20px; right:20px;}
+
+.layer10 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer10 .close10 {position:absolute; bottom:20px; right:20px;}
+
+.layer11 {display:none; width:700px; height: 500px; margin:0 auto; border: solid 2px; z-index: 1200; position: absolute; left:50%; top:50%; margin-left: -370px; margin-top:-400px; background: #fff; padding:20px;}
+.layer11 .close11 {position:absolute; bottom:20px; right:20px;}
+
+
+
